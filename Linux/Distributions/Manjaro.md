@@ -1,5 +1,3 @@
-<iframe src="https://manjaro.org" class="resize-vertical" style="height: 550px;"></iframe>
-
 [Manjaro website](https://manjaro.org)
 
 ---
@@ -11,7 +9,7 @@
 
 ---
 
-### HOW TO SET THE FASTEST MIRROR
+### HOW TO SET THE FASTEST MIRROR FOR DOWNLOADING SOFTWARE
 An optimized mirror list can have a noticeable performance impact on the system.
 Open the terminal and run this command:
 ```

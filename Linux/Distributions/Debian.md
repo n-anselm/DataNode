@@ -1,5 +1,3 @@
-<iframe src="https://debian.org" class="resize-vertical" style="height: 230px;"></iframe>
-
 [Debian website](https://debian.org)
 
 ---

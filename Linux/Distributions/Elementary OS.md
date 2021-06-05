@@ -1,5 +1,3 @@
-<iframe src="https://elementary.io" class="resize-vertical" style="height: 650px;"></iframe>
-
 [Elementary OS website](https://elementary.io/)
 
 ---

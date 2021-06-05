@@ -1,5 +1,3 @@
-<iframe src="https://mxlinux.org" class="resize-vertical" style="height: 450px;"></iframe>
-
 [MX Linux website](https://mxlinux.org)
 
 ---

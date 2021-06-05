@@ -1,5 +1,3 @@
-<iframe src="https://blackarch.org" class="resize-vertical" style="height: 450px;"></iframe>
-
 [BlackArch website](https://blackarch.org)
 
 ---
@@ -12,3 +10,11 @@
 ---
 
 BlackArch is designed for penetration testers and security researchers.
+
+---
+
+### Default credentials
+
+The default login for all ISOs and OVA is:
+- Username: **root**
+- Password: **blackarch**

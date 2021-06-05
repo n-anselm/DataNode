@@ -1,5 +1,3 @@
-<iframe src="https://linuxmint.com" class="resize-vertical" style="height: 642px;"></iframe>
-
 [Linux Mint website](https://linuxmint.com)
 
 ---

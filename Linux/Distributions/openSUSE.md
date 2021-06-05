@@ -1,5 +1,3 @@
-<iframe src="https://opensuse.org" class="resize-vertical" style="height: 490px;"></iframe>
-
 [openSUSE website](https://opensuse.org)
 
 ---

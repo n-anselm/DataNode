@@ -1,5 +1,3 @@
-<iframe src="https://zorinos.com/" class="resize-vertical" style="height: 552px;"></iframe>
-
 [Zorin OS website](https://zorinos.com/)
 
 ---

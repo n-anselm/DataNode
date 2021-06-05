@@ -1,5 +1,3 @@
-<iframe src="https://ubuntu.com" class="resize-vertical" style="height: 520px;"></iframe>
-
 [Ubuntu website](https://ubuntu.com)
 
 ---

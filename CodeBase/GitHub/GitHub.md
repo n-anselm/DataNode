@@ -1,3 +1,3 @@
-<iframe src="https://github.com" class="resize-vertical" style="height: 535px; width: 100%;"></iframe>
+[GitHub website](https://github.com)
 
-[GitHub](https://github.com)
+GitHub considered essential by thousands of programmers.

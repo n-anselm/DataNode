@@ -1,5 +1,3 @@
-<iframe src="https://qubes-os.org/" class="resize-vertical" style="height: 390px;"></iframe>
-
 [Qubes OS website](https://qubes-os.org/)
 - ---
 

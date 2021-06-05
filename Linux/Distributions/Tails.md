@@ -1,5 +1,3 @@
-<iframe src="https://tails.boum.org" class="resize-vertical" style="height: 625px;"></iframe>
-
 [Tails website](https://tails.boum.org)
 
 ---

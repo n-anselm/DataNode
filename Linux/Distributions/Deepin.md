@@ -1,7 +1,3 @@
-<!--
-<iframe src="https://deepin.org" class="resize-vertical" style="height: 442px;"></iframe>
--->
-
 [Deepin website](https://deepin.org)
 
 ---

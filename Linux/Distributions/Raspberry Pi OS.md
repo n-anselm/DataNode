@@ -1,5 +1,3 @@
-<iframe src="https://raspberrypi.org/software/" class="resize-vertical" style="height: 740px;"></iframe>
-
 [Raspberry Pi website](https://raspberrypi.org/software/)
 
 ---

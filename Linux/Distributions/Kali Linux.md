@@ -1,5 +1,3 @@
-<iframe src="https://kali.org" class="resize-vertical" style="height: 475px;"></iframe>
-
 [Kali Linux website](https://kali.org)
 
 ---
