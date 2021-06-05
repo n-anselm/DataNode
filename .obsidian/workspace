@@ -11,9 +11,10 @@
             "id": "9dba15fa2e0d7313",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "res/datanode.png"
+                "file": "README.md",
+                "mode": "source"
               }
             },
             "group": "e6cbcaa706d7bae6"
@@ -22,9 +23,10 @@
             "id": "c89947130bcc3e51",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "res/datanode.png"
+                "file": "README.md",
+                "mode": "preview"
               }
             },
             "group": "e6cbcaa706d7bae6"
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "res/datanode.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +108,15 @@
   },
   "active": "9dba15fa2e0d7313",
   "lastOpenFiles": [
-    "res/datanode.png",
-    "res/linux_file_system_structure.png",
-    "res/DataNode-svg2.png",
     "README.md",
-    "Linux/Linux System/File Types.md",
-    "Linux/Networking/Change network interface name.md",
-    "Linux/Bootloaders/Grub.md",
-    "Cloud Storage/Terabox.md",
-    "Cloud Storage/MEGA.md",
-    "Cloud Storage/Degoo.md"
+    "Hacking/Cheatsheets.md",
+    "Hacking/Hacking OSs/Kali Linux.md",
+    "Untitled.md",
+    "Hacking/Forensics/Social Tracking.md",
+    "Linux/Distributions/Kali Linux.md",
+    "Hacking/Network/Get WiFi Password from Android Device via ADB.md",
+    "Hacking/Network/Fake Access Points.md",
+    "res/datanode.png",
+    "res/linux_file_system_structure.png"
   ]
 }
