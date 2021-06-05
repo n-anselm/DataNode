@@ -11,10 +11,9 @@
             "id": "9dba15fa2e0d7313",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Linux/Desktop Environments/Cinnamon/Install Cinnamon.md",
-                "mode": "source"
+                "file": "res/datanode.png"
               }
             },
             "group": "e6cbcaa706d7bae6"
@@ -23,10 +22,9 @@
             "id": "c89947130bcc3e51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Linux/Desktop Environments/Cinnamon/Install Cinnamon.md",
-                "mode": "preview"
+                "file": "res/datanode.png"
               }
             },
             "group": "e6cbcaa706d7bae6"
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Desktop Environments/Cinnamon/Install Cinnamon.md",
+                "file": "res/datanode.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +106,15 @@
   },
   "active": "9dba15fa2e0d7313",
   "lastOpenFiles": [
-    "Linux/Desktop Environments/Cinnamon/Install Cinnamon.md",
+    "res/datanode.png",
+    "res/linux_file_system_structure.png",
+    "res/DataNode-svg2.png",
     "README.md",
+    "Linux/Linux System/File Types.md",
     "Linux/Networking/Change network interface name.md",
-    "Untitled.md",
-    "Linux/How To/Change Hostname.md",
     "Linux/Bootloaders/Grub.md",
-    "Linux/Terminal.md",
-    "GrubDisableRecover mode in grub.md",
-    "Linux/Linux System/Untitled.md",
-    "Linux/Linux System/File Types.md"
+    "Cloud Storage/Terabox.md",
+    "Cloud Storage/MEGA.md",
+    "Cloud Storage/Degoo.md"
   ]
 }

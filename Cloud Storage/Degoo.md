@@ -1,1 +1,1 @@
-[Degoo](https://degoo.com)
+[Degoo website](https://degoo.com)

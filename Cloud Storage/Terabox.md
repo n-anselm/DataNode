@@ -1,1 +1,1 @@
-[Terabox](https://terabox.com)
+[Terabox website](https://terabox.com)

@@ -1,1 +1,1 @@
-[MEGA](https://mega.io)
+[MEGA website](https://mega.io)
