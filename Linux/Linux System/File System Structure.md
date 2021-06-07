@@ -17,8 +17,9 @@ Folder | Description
 
 ---
 
-### FILE SYSTEM PATHS
+### File System Paths
 There are two paths to navigate in a filesystem:
+
 - Absolute path
 - Relative path
 

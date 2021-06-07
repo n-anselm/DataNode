@@ -14,6 +14,7 @@ To extract a rar file with the original directory structure:
 	unrar x file.rar
 
 ---
+
 ### List files inside a rar archive
 
 To list files inside a rar archive:
@@ -21,6 +22,7 @@ To list files inside a rar archive:
 	unrar l file.rar
 	
 ---
+
 ### Other
 
 To test the integrity of a rar file:

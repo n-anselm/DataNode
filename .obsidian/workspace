@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Networking/Quick Web Server.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Networking/Quick Web Server.md",
                 "mode": "preview"
               }
             },
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Networking/Quick Web Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "9dba15fa2e0d7313",
   "lastOpenFiles": [
-    "README.md",
-    "Hacking/Cheatsheets.md",
-    "Hacking/Hacking OSs/Kali Linux.md",
     "Untitled.md",
-    "Hacking/Forensics/Social Tracking.md",
-    "Linux/Distributions/Kali Linux.md",
-    "Hacking/Network/Get WiFi Password from Android Device via ADB.md",
-    "Hacking/Network/Fake Access Points.md",
-    "res/datanode.png",
-    "res/linux_file_system_structure.png"
+    "Linux/Terminal, Linux Commands/Terminal Shortcuts.md",
+    "Linux/Terminal, Linux Commands/Terminal Weather Forecast.md",
+    "Linux/Terminal, Linux Commands/The Most Dangerous Linux Commands You Should Never Execute!!!.md",
+    "Linux/Networking/Linux Networking Tools.md",
+    "Linux/Networking/Get Public IP Address.md",
+    "Linux/Networking/Get IP Address Info.md",
+    "Linux/Networking/Change network interface name.md",
+    "Linux/Networking/Get IP address info.md",
+    "Linux/Networking/Get public IP address.md"
   ]
 }

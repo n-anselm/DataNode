@@ -15,6 +15,7 @@ The options are pretty straightforward for this:
 **f:** This option tells tar that you are going to give it a file name to work with.
 
 ---
+
 ### Extract a ```.tar.bz2``` or ```.tbz``` file
 
 If the tar file is compressed using a bZip2 compressor, use this command:
@@ -28,6 +29,7 @@ If you remember, the z option was the uncompress (specifically gzip) flag, so it
 **j:** This will decompress a bzip2 file.
 
 ---
+
 ### Extract a file using the ```dtrx``` function
 
 To install ```dtrx```, use this command:
