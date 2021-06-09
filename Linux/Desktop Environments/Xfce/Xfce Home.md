@@ -1,7 +1,7 @@
 [Xfce website](https://xfce.org)
 
 ---
-###### Misc Xfce commands
+### Misc Xfce commands
 
 Lock the screen:
 

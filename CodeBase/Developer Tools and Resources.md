@@ -16,4 +16,4 @@ Got a question, problem, or stuck? [Stackoverflow](https://stackoverflow.com) ha
 
 ### Dev.to
 
-[Dev.to](https://dev.to) serves as kind of a hangout for over 600k programmers/developers. It contains a lot of useful and interesting material and helps to keep you inspirated.
+[Dev.to](https://dev.to) serves as kind of a hangout for over 600k programmers/developers. It contains a lot of useful and interesting material and helps to keep you motivated.

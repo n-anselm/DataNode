@@ -1,8 +1,8 @@
-### Creating fake access points
+## Creating fake access points
 
 ---
 
-###### Using mdk3
+### Using mdk3
 
 Create fake access points with random names:
 

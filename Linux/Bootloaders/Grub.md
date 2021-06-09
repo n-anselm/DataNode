@@ -2,6 +2,8 @@
 
 ---
 
+GRUB stands for "GNU GRand Unified Bootloader".
+
 The Grub config file is located in ```/etc/default/grub```.
 
 ---

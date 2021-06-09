@@ -1,4 +1,4 @@
-### DISCLAIMER: If you want to use these commands, use them at you own risk. I am not responsible for your actions.
+## DISCLAIMER: If you want to use these commands, use them at you own risk. I am not responsible for your actions.
 
 ---
 

@@ -1,7 +1,15 @@
-### How to restart the GNOME desktop environment
+## How to restart the GNOME desktop environment
 
 ---
-###### Method 1
+
+### Method 1
+
+Make sure that all of your work is saved, because this will close all applications.
+
+	dbus-send --type=method_call --print-reply --dest=org.gnome.Shell /org/gnome/Shell org.gnome.Shell.Eval string:'global.reexec_self()'
+
+---
+### Method 2
 
 Run this command in the terminal:
 
@@ -10,20 +18,20 @@ Run this command in the terminal:
 *NOTE: This will log you out of GNOME. Make sure all of your work is saved before you do this.*
 	
 ---
-###### Method 2
+### Method 3
 
 Save all of your open files.
 Press **Ctrl+Alt+Backspace**. It will restart GNOME instantly.
 
 ---
-###### Method 3
+### Method 4
 
 Run this command in the terminal:
 
 	sudo /etc/init.d/gdm restart
 	
 ---
-###### Method 4
+### Method 5
 
 Run this command in the terminal:
 

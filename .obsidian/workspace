@@ -4,32 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "a973369b47bd4995",
+        "id": "9be07555c7a33d5b",
         "type": "split",
         "children": [
           {
-            "id": "9dba15fa2e0d7313",
+            "id": "ef0e5dda1a5c2c67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeBase/Developer Tools and Resources.md",
+                "file": "Hacking/Types of Hackers.md",
                 "mode": "source"
               }
             },
-            "group": "e6cbcaa706d7bae6"
+            "group": "2204fb932045f96c"
           },
           {
-            "id": "c89947130bcc3e51",
+            "id": "98060eb1cedb5a29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeBase/Developer Tools and Resources.md",
+                "file": "Hacking/Types of Hackers.md",
                 "mode": "preview"
               }
             },
-            "group": "e6cbcaa706d7bae6"
+            "group": "2204fb932045f96c"
           }
         ],
         "direction": "horizontal"
@@ -88,13 +88,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeBase/Developer Tools and Resources.md",
+                "file": "Hacking/Types of Hackers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9dba15fa2e0d7313",
+  "active": "ef0e5dda1a5c2c67",
   "lastOpenFiles": [
-    "CodeBase/Developer Tools and Resources.md",
-    "CodeBase/GitHub/GitHub.md",
+    "Hacking/Types of Hackers.md",
     "Untitled.md",
-    "Linux/Terminal, Linux Commands/Miscellaneous Commands.md",
-    "Linux/Terminal, Linux Commands/Terminal Shortcuts.md",
-    "Linux/Terminal, Linux Commands/Terminal Weather Forecast.md",
-    "Linux/Terminal, Linux Commands/The Most Dangerous Linux Commands You Should Never Execute!!!.md",
+    "Linux/Desktop Environments/GNOME/Restart GNOME.md",
     "Linux/Bootloaders/Grub.md",
-    "Linux/Networking/Quick Web Server.md",
-    "Linux/Networking/Linux Networking Tools.md"
+    "CodeBase/Developer Tools and Resources.md",
+    "README.md",
+    "Linux/Terminal, Linux Commands/Miscellaneous Commands.md",
+    "Linux/Distributions/Elementary OS.md",
+    "Linux/Distributions/Deepin.md",
+    "Linux/Distributions/Debian.md"
   ]
 }

@@ -1,8 +1,8 @@
-### Getting the WiFi password from an Android device
+## Getting the WiFi password from an Android device
 
 ---
 
-###### Via ADB (Android Debug Bridge)
+### Via ADB (Android Debug Bridge)
 
 *NOTE: Developer options and ADB have to be enabled for this to work. No root is required.*
 

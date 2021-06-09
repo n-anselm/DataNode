@@ -1,6 +1,6 @@
-### Installing the GNOME desktop environment
+## Installing the GNOME desktop environment
 
 ---
-###### On Arch Linux:
+### On Arch Linux:
 
 	sudo pacman -S gnome gnome-extra

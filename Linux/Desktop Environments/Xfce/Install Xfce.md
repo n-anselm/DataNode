@@ -1,7 +1,7 @@
-### Installing the Xfce desktop environment
+## Installing the Xfce desktop environment
 
 ---
-###### On Debian:
+### On Debian:
 
 	sudo apt install xfce4 xfce4-goodies
 	
@@ -16,6 +16,6 @@ sudo tasksel
 ```
 
 ---
-###### On Arch Linux:
+### On Arch Linux:
 
     sudo pacman -S xfce4 xfce4-goodies

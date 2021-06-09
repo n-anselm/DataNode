@@ -1,12 +1,12 @@
-### Installing the MATE desktop environment
+## Installing the MATE desktop environment
 
 ---
-###### On Debian:
+### On Debian:
 
 	sudo apt install ubuntu-mate-desktop
 
 ---
-###### On Kali Linux (specific): 
+### On Kali Linux (specific): 
 
 Open ```/etc/apt/sources.list``` with sudo in an editor.
 
@@ -26,6 +26,6 @@ Install MATE:
 Reboot the system.
 
 ---
-###### On Arch Linux:
+### On Arch Linux:
 
     sudo pacman -S mate mate-extra
