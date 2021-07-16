@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/How To/Move a file.md",
+                "file": "README.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/How To/Move a file.md",
+                "file": "README.md",
                 "mode": "preview"
               }
             },
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/How To/Move a file.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "7e524832ce48cdbc",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Linux/How To/Rename a file.md",
-    "Linux/How To/Format USB Flash Drive from Terminal.md",
-    "Linux/Install Guides/Arch Linux Install Guide.md",
-    "Linux/How To/Work with Compressed Files/Working with rar files.md",
+    "README.md",
+    "Linux/Linux System/File System Structure.md",
+    "Hacking/Miscellaneous/Call someone from their own number.md",
+    "Hacking/Miscellaneous/Untitled.md",
     "Hacking/Types of Hackers.md",
+    "Linux/Install Guides/Arch Linux Install Guide.md",
+    "Linux/Desktop Environments/GNOME/Install GNOME.md",
+    "Linux/Desktop Environments/GNOME/GNOME Home.md",
     "Linux/Desktop Environments/GNOME/Restart GNOME.md",
-    "Linux/Bootloaders/Grub.md",
-    "CodeBase/Developer Tools and Resources.md",
-    "README.md"
+    "Communication/Secure Messaging Apps.md"
   ]
 }

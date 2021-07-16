@@ -4,7 +4,7 @@
 
 ### Method 1
 
-Make sure that all of your work is saved, because this will close all applications.
+Make sure that all of your work is saved; this action might close all of your open applications.
 
 	dbus-send --type=method_call --print-reply --dest=org.gnome.Shell /org/gnome/Shell org.gnome.Shell.Eval string:'global.reexec_self()'
 
