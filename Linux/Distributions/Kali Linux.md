@@ -15,6 +15,7 @@ Kali Linux is a system specifically designed for hacking and penetration testing
 
 ### HOW TO RESTORE KALI'S DEFAULT APPEARANCE (XFCE)
 Run this command to reset all appearance settings to default:
+
 ```
 rm -rf ~/.config/xfce4/ && sudo reboot
 ```
