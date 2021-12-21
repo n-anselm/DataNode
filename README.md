@@ -10,4 +10,4 @@ This repo's purpose is to provide information on programming, networking, Linux,
 
 *NOTE: The files were created with and for Obsidian; therefore, some things will not display correctly on GitHub. Obsidian is an excellent note taking application and is compatible with Linux, Windows, and MacOS.*
 
-(Get Obsidian here)[https://obsidian.md]
+[Get Obsidian here](https://obsidian.md)
