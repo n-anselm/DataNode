@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31c40f2eaded8e66",
-        "type": "split",
-        "children": [
-          {
-            "id": "27b466625f3dfa71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source"
-              }
-            },
-            "group": "99af117d14697ae8"
-          },
-          {
-            "id": "71b30aeaea8dd4d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview"
-              }
-            },
-            "group": "99af117d14697ae8"
+        "id": "71b30aeaea8dd4d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Artificial Intelligence/AI Assistants/Mycroft AI.md",
+            "mode": "preview",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -88,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Artificial Intelligence/AI Assistants/Mycroft AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27b466625f3dfa71",
+  "active": "71b30aeaea8dd4d9",
   "lastOpenFiles": [
-    "README.md",
-    "Linux/Software/Vim Text Editor.md",
-    "Linux/How To/Find out if Wayland or X11 is being used.md",
-    "Artificial Intelligence/Text to Speech (TTS).md",
-    "Artificial.md",
-    "Linux/Terminal, Linux Commands/Linux Terminal Commands.md",
-    "Linux/Terminal, Linux Commands/Miscellaneous Commands.md",
-    "Linux/Terminal, Linux Commands/Terminal Shortcuts.md",
-    "Linux/How To/Find Out Type of Shell.md",
-    "Linux/Terminal, Linux Commands/Terminal Weather Forecast.md"
+    "Artificial Intelligence/AI Assistants/Mycroft AI.md",
+    "Linux/How To/Find out how long the system has been running.md",
+    "Linux/How To/Create ISO from Installation.md",
+    "Linux/How To/Download Link Content from Terminal.md",
+    "Linux/How To/Download Videos in the Terminal.md",
+    "Linux/How To/Add Root (Sudo) Permission to a User.md",
+    "CodeBase/Programming Languages/Python/About Python.md",
+    "CodeBase/Programming Languages/Java.md",
+    "CodeBase/Programming Languages/Python/Misc How-tos in Python.md",
+    "README.md"
   ]
 }
