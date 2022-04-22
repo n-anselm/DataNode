@@ -2,4 +2,3 @@
 
 - Session Messenger
 - Signal
-- Telegram

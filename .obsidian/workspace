@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "71b30aeaea8dd4d9",
+        "id": "ea52d97124473e54",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Artificial Intelligence/AI Assistants/Mycroft AI.md",
+            "file": "README.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/AI Assistants/Mycroft AI.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71b30aeaea8dd4d9",
+  "active": "ea52d97124473e54",
   "lastOpenFiles": [
-    "Artificial Intelligence/AI Assistants/Mycroft AI.md",
-    "Linux/How To/Find out how long the system has been running.md",
-    "Linux/How To/Create ISO from Installation.md",
-    "Linux/How To/Download Link Content from Terminal.md",
-    "Linux/How To/Download Videos in the Terminal.md",
-    "Linux/How To/Add Root (Sudo) Permission to a User.md",
-    "CodeBase/Programming Languages/Python/About Python.md",
-    "CodeBase/Programming Languages/Java.md",
-    "CodeBase/Programming Languages/Python/Misc How-tos in Python.md",
-    "README.md"
+    "README.md",
+    "Hacking/Passwords/Remove Password on Linux.md",
+    "Hacking/Passwords/Bypass MacOS Password.md",
+    "Linux/Networking/Get Public IP Address.md",
+    "Linux/Install Guides/Arch Linux Install Guide.md",
+    "Hacking/Network/Deauth Attack.md",
+    "Hacking/Network/Fake Access Points.md",
+    "Linux/Terminal, Linux Commands/The Most Dangerous Linux Commands You Should Never Execute!!!.md",
+    "Linux/Software/Vim Text Editor.md",
+    "Linux/Networking/Linux Networking Tools.md"
   ]
 }
