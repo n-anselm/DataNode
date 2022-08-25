@@ -8,3 +8,9 @@ rm /var/db/.applesetupdone
 shutdown -h now
 ```
 3. Reboot
+
+---
+1. Power on  
+2. Hold `Cmd + R`
+3. Go to `Utilities > Terminal`
+4. resetpassword
